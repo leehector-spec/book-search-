@@ -1,0 +1,30 @@
+{
+  "generated": "2026-06-13 09:00",
+  "total": 24,
+  "books": [
+    {"filename": "Grisham_John - A Time to Kill", "folder": "Grisham", "size": 1.4, "ext": ".epub"},
+    {"filename": "Grisham_John - The Firm", "folder": "Grisham", "size": 1.2, "ext": ".epub"},
+    {"filename": "Grisham_John - The Pelican Brief", "folder": "Grisham", "size": 1.3, "ext": ".epub"},
+    {"filename": "Grisham_John - The Client", "folder": "Grisham", "size": 1.1, "ext": ".epub"},
+    {"filename": "Grisham_John - The Runaway Jury", "folder": "Grisham", "size": 1.2, "ext": ".epub"},
+    {"filename": "Child_Lee - Killing Floor (Jack Reacher 01)", "folder": "Jack Reacher", "size": 1.5, "ext": ".epub"},
+    {"filename": "Child_Lee - Die Trying (Jack Reacher 02)", "folder": "Jack Reacher", "size": 1.6, "ext": ".epub"},
+    {"filename": "Child_Lee - Tripwire (Jack Reacher 03)", "folder": "Jack Reacher", "size": 1.4, "ext": ".epub"},
+    {"filename": "Greaney_Mark - The Gray Man 01", "folder": "Gray Man", "size": 2.1, "ext": ".epub"},
+    {"filename": "Greaney_Mark - On Target 02", "folder": "Gray Man", "size": 1.9, "ext": ".epub"},
+    {"filename": "Greaney_Mark - Ballistic 03", "folder": "Gray Man", "size": 2.0, "ext": ".epub"},
+    {"filename": "Hurwitz_Gregg - Orphan X 01", "folder": "Orphan X", "size": 1.8, "ext": ".epub"},
+    {"filename": "Hurwitz_Gregg - The Nowhere Man 02", "folder": "Orphan X", "size": 1.7, "ext": ".epub"},
+    {"filename": "Dinniman_Matt - Dungeon Crawler Carl 01", "folder": "DCC", "size": 3.2, "ext": ".epub"},
+    {"filename": "Dinniman_Matt - Carls Doomsday Scenario 02", "folder": "DCC", "size": 3.4, "ext": ".epub"},
+    {"filename": "Flynn_Vince - American Assassin 01", "folder": "Mitch Rapp", "size": 1.9, "ext": ".epub"},
+    {"filename": "Flynn_Vince - Kill Shot 02", "folder": "Mitch Rapp", "size": 1.8, "ext": ".epub"},
+    {"filename": "Yarros_Rebecca - Fourth Wing", "folder": "The Empyrean", "size": 2.8, "ext": ".epub"},
+    {"filename": "Yarros_Rebecca - Iron Flame", "folder": "The Empyrean", "size": 3.1, "ext": ".epub"},
+    {"filename": "Maas_Sarah - A Court of Thorns and Roses", "folder": "ACOTAR", "size": 2.3, "ext": ".epub"},
+    {"filename": "Maas_Sarah - A Court of Mist and Fury", "folder": "ACOTAR", "size": 2.5, "ext": ".epub"},
+    {"filename": "Grisham_John - The Street Lawyer", "folder": "Grisham", "size": 1.1, "ext": ".epub"},
+    {"filename": "Brown_Dan - The Da Vinci Code", "folder": "Misc", "size": 1.7, "ext": ".epub"},
+    {"filename": "Brown_Dan - Angels and Demons", "folder": "Misc", "size": 1.6, "ext": ".epub"}
+  ]
+}
