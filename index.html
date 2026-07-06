@@ -220,7 +220,7 @@
 </div>
 
 <div class="results" id="results">
-  <div class="loading">📖 Loading your library...</div>
+  <div class="empty"><div class="big">📖</div>Start typing or select a filter to search your library.</div>
 </div>
 
 <div class="generated" id="generated"></div>
@@ -301,6 +301,14 @@ function render() {
 
     return matchesQuery && matchesFolder && matchesTag;
   });
+
+  // Show nothing until user types or selects a filter
+  if (!query && !folderFilter && !tagFilter) {
+    document.getElementById('results').innerHTML =
+      '<div class="empty"><div class="big">📖</div>Start typing or select a filter to search your library.</div>';
+    document.getElementById('stats').innerHTML = '';
+    return;
+  }
 
   document.getElementById('stats').innerHTML =
     `Showing <span>${filtered.length.toLocaleString()}</span> of <span>${allBooks.length.toLocaleString()}</span> books`;
